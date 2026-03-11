@@ -1,4 +1,5 @@
 
 [submodule "detectron2"]
 	path = detectron2
-	url = https://github.com/dgcnz/detectron2.git
+	url = https://github.com/thebeo2004/detectron2.git
+	branch = main
